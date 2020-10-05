@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {}
+    "C:\\Users\\Bartłomiej\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\source\\repos\\innos6\\P3Fijak\\Zjazd1.1\\Zjazd1.1.csproj",
+      "projectUniqueName": "C:\\Users\\Bartłomiej\\Source\\Repos\\innos6\\P3Fijak\\Zjazd1.1\\Zjazd1.1.csproj",
       "projectName": "Zjazd1.1",
-      "projectPath": "C:\\Users\\Student\\source\\repos\\innos6\\P3Fijak\\Zjazd1.1\\Zjazd1.1.csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\source\\repos\\innos6\\P3Fijak\\Zjazd1.1\\obj\\",
+      "projectPath": "C:\\Users\\Bartłomiej\\Source\\Repos\\innos6\\P3Fijak\\Zjazd1.1\\Zjazd1.1.csproj",
+      "packagesPath": "C:\\Users\\Bartłomiej\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bartłomiej\\Source\\Repos\\innos6\\P3Fijak\\Zjazd1.1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bartłomiej\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

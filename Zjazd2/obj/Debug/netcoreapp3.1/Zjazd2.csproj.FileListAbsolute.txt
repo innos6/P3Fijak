@@ -1,0 +1,13 @@
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\bin\Debug\netcoreapp3.1\Zjazd2.exe
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\bin\Debug\netcoreapp3.1\Zjazd2.deps.json
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\bin\Debug\netcoreapp3.1\Zjazd2.runtimeconfig.json
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\bin\Debug\netcoreapp3.1\Zjazd2.runtimeconfig.dev.json
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\bin\Debug\netcoreapp3.1\Zjazd2.dll
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\bin\Debug\netcoreapp3.1\Zjazd2.pdb
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\obj\Debug\netcoreapp3.1\Zjazd2.csprojAssemblyReference.cache
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\obj\Debug\netcoreapp3.1\Zjazd2.AssemblyInfoInputs.cache
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\obj\Debug\netcoreapp3.1\Zjazd2.AssemblyInfo.cs
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\obj\Debug\netcoreapp3.1\Zjazd2.csproj.CoreCompileInputs.cache
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\obj\Debug\netcoreapp3.1\Zjazd2.dll
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\obj\Debug\netcoreapp3.1\Zjazd2.pdb
+C:\Users\Bartłomiej\Source\Repos\innos6\P3Fijak\Zjazd2\obj\Debug\netcoreapp3.1\Zjazd2.genruntimeconfig.cache
