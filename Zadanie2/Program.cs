@@ -13,13 +13,13 @@ namespace Zadanie2
 
     class Program
     {
-        static public int i;
+        static public wynik i;
         static float GetParam()
         {
             bool guard = false;
             var a = Console.ReadLine();
             float _ConvertedA = 0;
-            while (guard == false)
+            while (!guard)
             {
                 if ((float.TryParse(a, out _ConvertedA)) == false)
                 {
@@ -51,26 +51,26 @@ namespace Zadanie2
             Console.WriteLine("Delta wynosi : "+ delta);
             if (delta > 0)
             {
-                i = wynik.dodatni.GetHashCode();
+                i = wynik.dodatni;
             }
             else if (delta < 0)
             {
-                i = wynik.ujemny.GetHashCode();
+                i = wynik.ujemny;
             }
             else if (delta == 0)
             {
-                i = wynik.zero.GetHashCode();
+                i = wynik.zero;
             }
 
             switch (i)
             {
-                case 0:
+                case wynik.ujemny:
                     Console.WriteLine("Brak rozwiazan w zbiorze liczb rzeczywistych.");
                     break;
-                case 1:
+                case wynik.zero:
                     Console.WriteLine("x = "+ (-b)/(2*a));
                     break;
-                case 2:
+                case wynik.dodatni:
                     Console.WriteLine("x1 = " + ( ( (-b) - Math.Sqrt(delta) ) / (2*a) ) );
                     Console.WriteLine("x2 = " + ( ( (-b) + Math.Sqrt(delta) ) / (2*a) ) );
                     break;
